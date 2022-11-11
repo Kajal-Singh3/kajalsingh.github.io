@@ -1,0 +1,16 @@
+{
+  "name": "Unicorn Token",
+  "description": "Introducing the Unicorn NFT. Buy them for good fortune.",
+  "image": "https://ethereum-blockchain-developer.com/2022-06-nft-truffle-hardhat-foundry/nftdata/spacebear_1.webp",
+  "external_url": "https://ethereum-blockchain-developer.com",
+  "attributes": [
+    {
+      "trait_type": "Artefact",
+      "value": "Unicorn"
+    },
+    {
+      "trait_type": "Collection",
+      "value": "Genesis"
+    }
+  ]
+}
